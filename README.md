@@ -1,16 +1,3 @@
----
-title: Bell Violation
-emoji: 🚀
-colorFrom: purple
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.39.0
-app_file: main.py
-pinned: false
-license: mit
-short_description: Data Science Internship Challenge 2024
----
-
 ### Code Style
 
 This repository uses pre-commit hooks with forced python formatting ([black](https://github.com/psf/black),
